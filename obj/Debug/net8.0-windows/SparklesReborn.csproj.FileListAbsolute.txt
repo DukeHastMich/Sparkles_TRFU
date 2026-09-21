@@ -1,0 +1,14 @@
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\obj\Debug\net8.0-windows\SparklesReborn.GeneratedMSBuildEditorConfig.editorconfig
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\obj\Debug\net8.0-windows\SparklesReborn.AssemblyInfoInputs.cache
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\obj\Debug\net8.0-windows\SparklesReborn.AssemblyInfo.cs
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\obj\Debug\net8.0-windows\SparklesReborn.csproj.CoreCompileInputs.cache
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\bin\Debug\net8.0-windows\Sparkles.exe
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\bin\Debug\net8.0-windows\Sparkles.deps.json
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\bin\Debug\net8.0-windows\Sparkles.runtimeconfig.json
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\bin\Debug\net8.0-windows\Sparkles.dll
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\bin\Debug\net8.0-windows\Sparkles.pdb
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\obj\Debug\net8.0-windows\Sparkles.dll
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\obj\Debug\net8.0-windows\refint\Sparkles.dll
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\obj\Debug\net8.0-windows\Sparkles.pdb
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\obj\Debug\net8.0-windows\SparklesReborn.genruntimeconfig.cache
+E:\Creative Projects\Source Code\Sparkles\SparklesReborn\obj\Debug\net8.0-windows\ref\Sparkles.dll
